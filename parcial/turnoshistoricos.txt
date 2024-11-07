@@ -1,0 +1,10 @@
+1,Perez Laura,14:30,pendiente,19,2024-11-12
+2,Gonzalez Juan,09:15,pendiente,35,2024-06-10
+3,Martinez Elena,12:00,pendiente,31,2024-09-20
+4,Jimenez Isabel,16:00,pendiente,33,2024-01-18
+5,Fernandez Ana,10:30,pendiente,28,2024-07-01
+6,Rodriguez Carlos,11:45,pendiente,42,2024-08-15
+7,Gomez Alberto,15:45,pendiente,26,2024-12-01
+8,Sanchez Luis,13:15,pendiente,54,2024-10-05
+9,Herrera Patricia,18:30,pendiente,23,2024-03-10
+10,Ruiz David,17:15,pendiente,47,2024-02-25
